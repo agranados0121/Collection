@@ -12,7 +12,7 @@ Significantly more indepth details are in the report
 The files that I created alone where
 Point.java, PointGraph.java and RectIntersect.java
 
-### SE433 Software Testing and Quality Assurance
-This was my first grad level course.
+### SE433
+This was my first grad level course called Software Testing and Quality Assurance.
 Two different assignments exist in here both focusing on writing unit tests in JUnit.
 Skeleton files were provided only for the main classes (DateObj, ShoppingCart, Product) but the functionality was our portion as well as creating the tests from scratch
